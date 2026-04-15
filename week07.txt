@@ -1,0 +1,9 @@
+1교시
+fork 밑 pull request
+
+2교시
+amend 옵션
+2가지 conficts 상황 해결
+
+git commit -m "CloudService ....."
+git commit --amend -m "클라우드서비스 ....."
